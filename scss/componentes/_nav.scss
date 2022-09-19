@@ -1,0 +1,33 @@
+.navBar{
+    color: #dcd0c0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:nth($size , 7 );
+    position: relative;
+    width: 100%;
+    height: 6.25rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f4f4f4;
+    margin-bottom: 0.5px;
+}
+.carritoBoton {
+  border: none;
+}
+
+@media (max-width: 575.98px){
+    .navBar{
+      justify-content: left;
+      width: 100%;
+      position: relative;
+    }
+
+      }
+    @media (max-width: 1199.98px){
+    .navBar{
+      justify-content: left;
+      margin-left: 20px;
+      width: 100%;
+      position: relative;
+    }
+    }

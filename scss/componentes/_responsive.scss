@@ -1,0 +1,55 @@
+@media (max-width: 575.98px){
+    .NavSuperior{
+      position: relative;
+      width: 25%;
+      margin-inline:300px;
+      justify-content: left;
+    }
+    .navBar{
+      justify-content: left;
+      width: 100%;
+      position: relative;
+    }
+    h2{
+      color:#665a5a;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 10px;
+    }
+      }
+    @media (max-width: 1199.98px){
+        .NavSuperior{
+          position: relative;
+          width: 25%;
+          margin-inline:300px;
+          justify-content: left;
+      }
+    .navBar{
+      justify-content: left;
+      margin-left: 20px;
+      width: 100%;
+      position: relative;
+    }
+    h2{
+      color:#665a5a;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 10px;
+    }
+    .carousel img {
+      position: relative;
+      overflow: hidden;
+      width:15px;
+      height:215px;
+    }
+    .carousel-inner{
+      width:auto;
+      height: auto;
+      box-sizing: border-box;
+      margin-top: 5px;
+    }
+    .texto{
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+    }

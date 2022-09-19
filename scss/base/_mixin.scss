@@ -1,0 +1,17 @@
+@mixin margen{
+    margin-top:  6.25rem;
+    margin-bottom: 6.25rem;
+}
+@mixin margenes{
+    margin-left: 10.9375rem;
+    margin-right:6.25rem;
+}
+@mixin margenfooter {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    margin-left: 20.3125rem; 
+}
+@mixin margenfooterdos{
+    margin-top: 3.125rem;
+    margin-bottom: 1.25rem;
+}

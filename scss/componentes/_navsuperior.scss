@@ -1,0 +1,22 @@
+.NavSuperior{
+    position: relative;
+    width: 100%;
+    margin-inline: 600px;
+    justify-content: center;
+}
+@media (max-width: 575.98px){
+    .NavSuperior{
+      position: relative;
+      width: 25%;
+      margin-inline:300px;
+      justify-content: left;
+    }
+      }
+    @media (max-width: 1199.98px){
+        .NavSuperior{
+          position: relative;
+          width: 25%;
+          margin-inline:300px;
+          justify-content: left;
+      }
+    }
